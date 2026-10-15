@@ -1,0 +1,4 @@
+interface:
+  display_name: "研究证据整理"
+  short_description: "Map study claims to verified results and evidence gaps."
+  default_prompt: "使用 $research-evidence，整理已有实验结果，检查它们能够支持哪些科研结论。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "领域文献与写作分析"
+  short_description: "Build source-grounded literature and writing notes."
+  default_prompt: "使用 $literature-reading，阅读同领域近期代表文献，分析研究现状和论文写作逻辑。"

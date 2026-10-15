@@ -1,0 +1,4 @@
+interface:
+  display_name: "框架图设计与重建"
+  short_description: "Design, audit and rebuild scientific framework figures."
+  default_prompt: "使用 $framework-figure，参考相关论文设计框架图提示词，再审核草图并重建正确的可编辑图。"

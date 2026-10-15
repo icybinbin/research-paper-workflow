@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研故事讨论"
+  short_description: "Discuss the research question, method and central claim."
+  default_prompt: "使用 $research-story，通过提问与我讨论研究问题、方法和核心结论，先形成科研故事草案。"

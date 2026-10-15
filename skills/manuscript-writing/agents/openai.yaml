@@ -1,0 +1,4 @@
+interface:
+  display_name: "逐层规划与论文写作"
+  short_description: "Plan chapters, paragraphs and sentences before drafting."
+  default_prompt: "使用 $manuscript-writing，先规划章节、段落和句子任务，再按确认的提纲分块起草。"
